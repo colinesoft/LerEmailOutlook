@@ -1,0 +1,7 @@
+C:\projetos\lucas\readmail\ReadMail\ReadMail\bin\Debug\ReadMail.exe.config
+C:\projetos\lucas\readmail\ReadMail\ReadMail\bin\Debug\ReadMail.exe
+C:\projetos\lucas\readmail\ReadMail\ReadMail\bin\Debug\ReadMail.pdb
+C:\projetos\lucas\readmail\ReadMail\ReadMail\obj\Debug\ReadMail.csproj.AssemblyReference.cache
+C:\projetos\lucas\readmail\ReadMail\ReadMail\obj\Debug\ReadMail.csproj.CoreCompileInputs.cache
+C:\projetos\lucas\readmail\ReadMail\ReadMail\obj\Debug\ReadMail.exe
+C:\projetos\lucas\readmail\ReadMail\ReadMail\obj\Debug\ReadMail.pdb
